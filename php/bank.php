@@ -67,7 +67,7 @@ error_reporting(0);
                 <section class="about-left">
                         <p>This website was created by ARYAN KASHYAP</p>
                         <p>Email: onlyaryank@gmail.com</p>
-                        <P>LinkedIn: </p>
+                        <P>LinkedIn:www.linkedin.com/in/aryan-kashyap-1805 </p>
                 </section>
                 <section class="about-right">
                         <img height ="200px" width="200px" src="images\DSC09763.jpg" alt="image of creator">
